@@ -1,0 +1,1063 @@
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 16:59:17.105709: Commando binnen voor id: 0 en value: 831
+INFO:__main__:2025-07-01 16:59:17.106062: Commando binnen voor id: 1 en value: 4
+INFO:__main__:2025-07-01 16:59:17.106375: Commando binnen voor id: 2 en value: 4
+INFO:__main__:2025-07-01 16:59:17.106696: Commando binnen voor id: 3 en value: 4
+INFO:__main__:2025-07-01 16:59:17.106974: Commando binnen voor id: 4 en value: 2025-07-01 16:32
+INFO:__main__:2025-07-01 16:59:17.108262: Wachten / commando
+INFO:__main__:2025-07-01 16:59:17.108501: Schrijf normaal: 4 naar 1
+INFO:__main__:2025-07-01 16:59:17.110136: Schrijf normaal: 4 naar 2
+INFO:__main__:2025-07-01 16:59:17.111151: Schrijf normaal: 4 naar 3
+INFO:__main__:2025-07-01 16:59:17.111831: Schrijf normaal: 4 naar 5
+INFO:__main__:2025-07-01 16:59:17.113117: Schrijf normaal: 8 naar 6
+INFO:__main__:2025-07-01 16:59:17.616043: PLC gestart
+INFO:__main__:2025-07-01 17:00:32.703168: Commando binnen voor id: 0 en value: 657
+INFO:__main__:2025-07-01 17:00:32.703426: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-01 17:00:32.703603: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-01 17:00:32.703775: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-01 17:00:32.703963: Commando binnen voor id: 4 en value: 2025-07-01 17:00
+INFO:__main__:2025-07-01 17:00:32.704176: Wachten / commando
+INFO:__main__:2025-07-01 17:00:32.704358: Schrijf normaal: 2 naar 1
+INFO:__main__:2025-07-01 17:00:32.705432: Schrijf normaal: 2 naar 2
+INFO:__main__:2025-07-01 17:00:32.707208: Schrijf normaal: 2 naar 3
+INFO:__main__:2025-07-01 17:00:32.708950: Schrijf normaal: 2 naar 5
+INFO:__main__:2025-07-01 17:00:32.710715: Schrijf normaal: 4 naar 6
+INFO:__main__:2025-07-01 17:00:33.215857: PLC gestart
+INFO:__main__:2025-07-01 17:01:03.250759: Commando binnen voor id: 0 en value: 249
+INFO:__main__:2025-07-01 17:01:03.251192: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-01 17:01:03.251546: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-01 17:01:03.251897: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-01 17:01:03.252238: Commando binnen voor id: 4 en value: 2025-07-01 10:00
+INFO:__main__:2025-07-01 17:01:03.252554: Wachten / commando
+INFO:__main__:2025-07-01 17:01:03.252833: Schrijf normaal: 2 naar 1
+INFO:__main__:2025-07-01 17:01:03.254001: Schrijf normaal: 2 naar 2
+INFO:__main__:2025-07-01 17:01:03.254960: Schrijf normaal: 2 naar 3
+INFO:__main__:2025-07-01 17:01:03.255765: Schrijf normaal: 2 naar 5
+INFO:__main__:2025-07-01 17:01:03.256703: Schrijf normaal: 4 naar 6
+INFO:__main__:2025-07-01 17:01:03.760580: PLC gestart
+INFO:__main__:2025-07-01 17:01:33.795309: Commando binnen voor id: 0 en value: 427
+INFO:__main__:2025-07-01 17:01:33.795637: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-01 17:01:33.795866: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-01 17:01:33.796079: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-01 17:01:33.796289: Commando binnen voor id: 4 en value: 2025-07-01 10:00
+INFO:__main__:2025-07-01 17:01:33.796530: Commando binnen voor id: 5 en value: 20:01
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 18:50:24.048608: Commando binnen voor id: 0 en value: 427
+INFO:__main__:2025-07-01 18:50:24.048912: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-01 18:50:24.049085: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-01 18:50:24.049220: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-01 18:50:24.049350: Commando binnen voor id: 4 en value: 2025-07-01 10:00
+INFO:__main__:2025-07-01 18:50:24.051225: Sproeitijd 1: 2025-07-02 10:00:00
+INFO:__main__:2025-07-01 18:50:24.051407: Sproeitijd 2: 2025-07-01 20:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 18:51:17.949502: Commando binnen voor id: 0 en value: 427
+INFO:__main__:2025-07-01 18:51:17.949822: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-01 18:51:17.950123: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-01 18:51:17.950409: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-01 18:51:17.950670: Commando binnen voor id: 4 en value: 2025-07-01 10:00
+INFO:__main__:2025-07-01 18:51:17.952093: Sproeitijd 1: 2025-07-02 10:00:00
+INFO:__main__:2025-07-01 18:51:17.952277: Sproeitijd 2: 2025-07-01 20:01:00
+INFO:__main__:2025-07-01 18:51:37.978523: Commando binnen voor id: 0 en value: 649
+INFO:__main__:2025-07-01 18:51:37.978895: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:51:37.979152: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:51:37.979436: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:51:37.979700: Commando binnen voor id: 4 en value: 2025-07-01 18:51
+INFO:__main__:2025-07-01 18:51:37.979974: Wachten / commando
+INFO:__main__:2025-07-01 18:51:37.980192: Schrijf normaal: 3 naar 1
+INFO:__main__:2025-07-01 18:51:37.982477: Schrijf normaal: 3 naar 2
+INFO:__main__:2025-07-01 18:51:37.984251: Schrijf normaal: 3 naar 3
+INFO:__main__:2025-07-01 18:51:37.985900: Schrijf normaal: 3 naar 5
+INFO:__main__:2025-07-01 18:51:37.987499: Schrijf normaal: 6 naar 6
+INFO:__main__:2025-07-01 18:51:38.492323: PLC gestart
+INFO:__main__:2025-07-01 18:52:34.662851: Commando binnen voor id: 0 en value: 674
+INFO:__main__:2025-07-01 18:52:34.663309: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:52:34.663646: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:52:34.663987: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:52:34.664295: Commando binnen voor id: 4 en value: 2025-07-01 18:46
+INFO:__main__:2025-07-01 18:52:34.664627: Wachten / commando
+INFO:__main__:2025-07-01 18:52:34.664933: Schrijf normaal: 3 naar 1
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 18:52:41.743765: Commando binnen voor id: 0 en value: 674
+INFO:__main__:2025-07-01 18:52:41.744004: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:52:41.744188: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:52:41.744361: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:52:41.744517: Commando binnen voor id: 4 en value: 2025-07-01 18:46
+INFO:__main__:2025-07-01 18:52:41.745814: Wachten / commando
+INFO:__main__:2025-07-01 18:52:41.746002: Schrijf normaal: 3 naar 1
+INFO:__main__:2025-07-01 18:52:41.747827: Schrijf normaal: 3 naar 2
+INFO:__main__:2025-07-01 18:52:41.749632: Schrijf normaal: 3 naar 3
+INFO:__main__:2025-07-01 18:52:41.751384: Schrijf normaal: 3 naar 5
+INFO:__main__:2025-07-01 18:52:41.753075: Schrijf normaal: 6 naar 6
+INFO:__main__:2025-07-01 18:52:42.257983: PLC gestart
+INFO:__main__:2025-07-01 18:52:47.263959: Herhaald
+INFO:__main__:2025-07-01 18:52:47.264350: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 18:52:47.265501: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 18:52:47.267272: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 18:52:47.268857: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 18:52:47.270630: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 18:52:47.775895: PLC gestart, volgende aanroep op 2025-07-01 18:52:41.739659
+INFO:__main__:2025-07-01 18:53:08.524231: Commando binnen voor id: 0 en value: 609
+INFO:__main__:2025-07-01 18:53:08.524530: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:53:08.524761: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:53:08.524939: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:53:08.525144: Commando binnen voor id: 4 en value: 2025-07-01 18:46
+INFO:__main__:2025-07-01 18:53:08.525540: Sproeitijd 1: 2025-07-02 18:46:00
+INFO:__main__:2025-07-01 18:53:08.525716: Sproeitijd 2: 2025-07-01 18:55:00
+INFO:__main__:2025-07-01 18:53:08.525884: Herhaald
+INFO:__main__:2025-07-01 18:53:08.526048: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 18:53:08.527197: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 18:53:08.529049: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 18:53:08.530728: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 18:53:08.532440: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 18:53:09.037432: PLC gestart, volgende aanroep op 2025-07-01 18:56:00
+INFO:__main__:2025-07-01 18:54:30.342997: Commando binnen voor id: 0 en value: 667
+INFO:__main__:2025-07-01 18:54:30.343399: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:54:30.343826: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:54:30.344165: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:54:30.344445: Commando binnen voor id: 4 en value: 2025-07-01 18:46
+INFO:__main__:2025-07-01 18:54:30.344779: Sproeitijd 1: 2025-07-02 18:46:00
+INFO:__main__:2025-07-01 18:54:30.345038: Sproeitijd 2: 2025-07-01 18:55:00
+INFO:__main__:2025-07-01 18:54:30.345251: Herhaald
+INFO:__main__:2025-07-01 18:54:30.345458: Schrijf repeated: 3 naar 1ww
+INFO:__main__:2025-07-01 18:54:30.346532: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 18:54:30.347549: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 18:54:30.349352: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 18:54:30.350856: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 18:54:30.854158: PLC gestart, volgende aanroep op 2025-07-01 18:56:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 18:56:30.615576: Commando binnen voor id: 0 en value: 667
+INFO:__main__:2025-07-01 18:56:30.615838: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:56:30.616046: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:56:30.616243: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:56:30.616432: Commando binnen voor id: 4 en value: 2025-07-01 18:46
+INFO:__main__:2025-07-01 18:56:30.617761: Sproeitijd 1: 2025-07-01 18:46:00
+INFO:__main__:2025-07-01 18:56:30.617961: Sproeitijd 2: 2025-07-01 18:55:00
+INFO:__main__:2025-07-01 18:56:30.618163: Herhaald
+INFO:__main__:2025-07-01 18:56:30.618350: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 18:56:30.621124: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 18:56:30.622475: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 18:56:30.623470: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 18:56:30.624215: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 18:56:31.127827: PLC gestart, volgende aanroep op 2025-07-01 18:47:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 18:57:06.076404: Commando binnen voor id: 0 en value: 667
+INFO:__main__:2025-07-01 18:57:06.076687: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:57:06.076965: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:57:06.077169: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:57:06.077401: Commando binnen voor id: 4 en value: 2025-07-01 18:46
+INFO:__main__:2025-07-01 18:57:06.078801: Sproeitijd 1: 2025-07-02 18:46:00
+INFO:__main__:2025-07-01 18:57:06.079035: Sproeitijd 2: 2025-07-02 18:55:00
+INFO:__main__:2025-07-01 18:57:36.870261: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 18:57:36.870666: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:57:36.870986: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:57:36.871294: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:57:36.871621: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 18:57:36.871975: Sproeitijd 1: 2025-07-01 18:58:00
+INFO:__main__:2025-07-01 18:57:36.872283: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 18:57:36.872591: Wachten / commando
+INFO:__main__:2025-07-01 18:57:36.872897: Schrijf normaal: 3 naar 1
+INFO:__main__:2025-07-01 18:57:36.875053: Schrijf normaal: 3 naar 2
+INFO:__main__:2025-07-01 18:57:36.876161: Schrijf normaal: 3 naar 3
+INFO:__main__:2025-07-01 18:57:36.877112: Schrijf normaal: 3 naar 5
+INFO:__main__:2025-07-01 18:57:36.878029: Schrijf normaal: 6 naar 6
+INFO:__main__:2025-07-01 18:57:37.381423: PLC gestart
+INFO:__main__:2025-07-01 18:57:42.388979: Herhaald
+INFO:__main__:2025-07-01 18:57:42.389357: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 18:57:42.390380: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 18:57:42.391417: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 18:57:42.392225: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 18:57:42.393165: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 18:57:42.896046: PLC gestart, volgende aanroep op 2025-07-01 18:59:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 18:58:55.650586: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 18:58:55.650854: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 18:58:55.651061: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 18:58:55.651316: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 18:58:55.651500: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 18:58:55.652873: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 18:58:55.653061: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 18:58:55.653198: Herhaald
+INFO:__main__:2025-07-01 18:58:55.653323: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 18:58:55.654767: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 18:58:55.655378: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 18:58:55.656230: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 18:58:55.657083: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 18:58:56.160157: PLC gestart, volgende aanroep op 2025-07-02 18:58:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:00:03.905795: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:00:03.906075: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:00:03.906336: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:00:03.906599: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:00:03.906854: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:00:03.908330: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:00:03.908610: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:00:03.908890: Herhaald
+INFO:__main__:2025-07-01 19:00:03.909148: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:00:03.910490: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:00:03.911157: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:00:03.911751: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:00:03.912658: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:00:04.415115: PLC gestart, volgende aanroep op 2025-07-02 18:58:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:00:20.394692: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:00:20.394877: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:00:20.395090: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:00:20.395258: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:00:20.395456: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:00:20.396752: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:00:20.396926: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:00:20.397058: Herhaald
+INFO:__main__:2025-07-01 19:00:20.397226: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:00:20.398498: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:00:20.399257: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:00:20.400156: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:00:20.401069: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:00:20.903929: PLC gestart, volgende aanroep op 2025-07-02 18:58:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:00:28.707864: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:00:28.708213: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:00:28.708466: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:00:28.708737: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:00:28.708992: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:00:28.710418: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:00:28.710565: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:00:28.710712: Herhaald
+INFO:__main__:2025-07-01 19:00:28.710849: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:00:28.712846: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:00:28.713823: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:00:28.714494: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:00:28.715479: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:00:29.218539: PLC gestart, volgende aanroep op 2025-07-02 18:58:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:01:08.108025: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:01:08.108335: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:01:08.108628: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:01:08.108880: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:01:08.109145: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:01:08.110504: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:01:08.110699: Sproeitijd 2: 2025-07-02 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:01:46.930029: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:01:46.930312: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:01:46.930603: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:01:46.930945: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:01:46.931211: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:01:46.932521: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:01:46.932704: Sproeitijd 2: 2025-07-02 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:02:13.971598: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:02:13.971803: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:02:13.971976: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:02:13.972137: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:02:13.972300: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:02:13.973627: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:02:13.973794: Sproeitijd 2: 2025-07-02 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:03:10.108676: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:03:10.108972: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:03:10.109243: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:03:10.109501: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:03:10.109756: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:03:10.111250: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:03:10.111493: Sproeitijd 2: 2025-07-02 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:03:29.629400: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:03:29.629631: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:03:29.629873: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:03:29.630073: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:03:29.630329: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:03:29.631691: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:03:29.631902: Sproeitijd 2: 2025-07-02 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:03:32.834772: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:03:32.835051: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:03:32.835266: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:03:32.835464: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:03:32.835654: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:03:32.837029: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:03:32.837191: Sproeitijd 2: 2025-07-02 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:03:43.541536: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:03:43.541736: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:03:43.541898: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:03:43.542049: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:03:43.542195: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:03:43.543439: Sproeitijd 1: 2025-07-02 18:58:00
+INFO:__main__:2025-07-01 19:03:43.543584: Sproeitijd 2: 2025-07-02 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:03:50.338173: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:03:50.338468: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:03:50.338736: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:03:50.338972: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:03:50.339198: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:03:50.340500: Sproeitijd 1: 2025-07-01 18:58:00
+INFO:__main__:2025-07-01 19:03:50.340727: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:03:50.340940: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:03:50.343496: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:03:50.344423: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:03:50.345884: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:03:50.346580: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:03:50.849515: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:03:55.857062: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:03:55.857941: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:03:55.858898: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:03:55.859792: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:03:55.860644: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:03:56.363892: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:04:01.366538: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:01.367625: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:01.368532: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:01.369300: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:01.370195: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:01.874004: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:04:07.671303: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:07.672317: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:07.673447: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:07.674571: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:07.675548: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:08.178211: PLC gestart, volgende aanroep op 2025-07-01 19:02:00
+INFO:__main__:2025-07-01 19:04:13.180835: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:13.181865: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:13.182777: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:13.183641: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:13.184715: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:13.687513: PLC gestart, volgende aanroep op 2025-07-01 19:03:00
+INFO:__main__:2025-07-01 19:04:18.695019: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:18.696160: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:18.697105: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:18.698041: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:18.698980: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:19.201441: PLC gestart, volgende aanroep op 2025-07-01 19:04:00
+INFO:__main__:2025-07-01 19:04:24.208430: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:24.209461: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:24.210347: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:24.211165: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:24.212084: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:24.714692: PLC gestart, volgende aanroep op 2025-07-01 19:05:00
+INFO:__main__:2025-07-01 19:04:29.717813: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:29.718983: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:29.719882: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:29.720797: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:29.721732: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:30.224358: PLC gestart, volgende aanroep op 2025-07-01 19:06:00
+INFO:__main__:2025-07-01 19:04:35.231365: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:35.232064: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:35.232992: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:35.233880: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:35.235005: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:35.737679: PLC gestart, volgende aanroep op 2025-07-01 19:07:00
+INFO:__main__:2025-07-01 19:04:41.735811: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:41.737104: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:41.738300: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:41.739169: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:41.740158: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:42.243198: PLC gestart, volgende aanroep op 2025-07-01 19:08:00
+INFO:__main__:2025-07-01 19:04:47.248625: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:47.249427: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:47.251080: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:47.252199: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:47.252835: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:47.756503: PLC gestart, volgende aanroep op 2025-07-01 19:09:00
+INFO:__main__:2025-07-01 19:04:52.759034: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:52.760140: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:52.761178: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:52.762120: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:04:52.762888: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:04:53.265391: PLC gestart, volgende aanroep op 2025-07-01 19:10:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:04:58.565300: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:04:58.565641: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:04:58.565883: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:04:58.566115: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:04:58.566349: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:04:58.567755: Sproeitijd 1: 2025-07-01 18:58:00
+INFO:__main__:2025-07-01 19:04:58.567978: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:04:58.568246: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:04:58.569815: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:04:58.570557: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:04:58.571449: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:04:58.572813: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:04:59.078376: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:05:04.083154: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:04.084270: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:04.085236: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:04.086978: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:04.087716: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:04.591945: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:05:10.556674: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:10.557457: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:10.558439: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:10.559200: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:10.559763: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:11.061915: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:05:16.068449: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:16.069419: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:16.070370: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:16.071281: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:16.072088: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:16.575443: PLC gestart, volgende aanroep op 2025-07-01 19:02:00
+INFO:__main__:2025-07-01 19:05:21.579019: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:21.580335: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:21.581051: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:21.581906: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:21.582732: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:22.085275: PLC gestart, volgende aanroep op 2025-07-01 19:03:00
+INFO:__main__:2025-07-01 19:05:27.089106: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:27.090388: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:27.091569: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:27.092409: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:27.093287: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:27.596325: PLC gestart, volgende aanroep op 2025-07-01 19:04:00
+INFO:__main__:2025-07-01 19:05:32.603625: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:32.605107: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:32.606090: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:32.606868: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:32.607793: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:33.110991: PLC gestart, volgende aanroep op 2025-07-01 19:05:00
+INFO:__main__:2025-07-01 19:05:38.114119: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:38.115617: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:38.117003: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:38.117889: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:38.118766: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:38.621542: PLC gestart, volgende aanroep op 2025-07-01 19:06:00
+INFO:__main__:2025-07-01 19:05:44.602947: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:44.603994: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:44.604909: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:44.605776: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:44.606727: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:45.109529: PLC gestart, volgende aanroep op 2025-07-01 19:07:00
+INFO:__main__:2025-07-01 19:05:50.115458: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:50.117068: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:50.118796: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:50.120079: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:50.122133: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:50.624965: PLC gestart, volgende aanroep op 2025-07-01 19:08:00
+INFO:__main__:2025-07-01 19:05:55.629962: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:05:55.630926: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:05:55.631861: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:05:55.632825: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:05:55.633532: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:05:56.136007: PLC gestart, volgende aanroep op 2025-07-01 19:09:00
+INFO:__main__:2025-07-01 19:06:01.143182: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:06:01.144041: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:06:01.145032: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:06:01.145920: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:06:01.146770: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:06:01.649579: PLC gestart, volgende aanroep op 2025-07-01 19:10:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:06:04.080620: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:06:04.080909: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:06:04.081116: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:06:04.081347: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:06:04.081527: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:06:04.082904: Sproeitijd 1: 2025-07-01 18:58:00
+INFO:__main__:2025-07-01 19:06:04.083083: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:06:04.083322: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:06:04.084847: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:06:04.085566: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:06:04.086491: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:06:04.087345: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:06:04.592295: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:06:15.222989: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:06:15.223259: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:06:15.223464: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:06:15.223685: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:06:15.223871: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:06:15.225192: Sproeitijd 1: 2025-07-01 18:58:00
+INFO:__main__:2025-07-01 19:06:15.225426: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:06:15.225681: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:06:15.227380: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:06:15.228034: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:06:15.228940: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:06:15.229777: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:06:15.733754: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:06:31.743323: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:06:31.744758: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:06:31.745603: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:06:31.746492: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:06:31.747412: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:06:32.251498: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:06:47.264319: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:06:47.265421: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:06:47.266315: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:06:47.267253: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:06:47.268149: Schrijf repeated: 7 naar 6
+INFO:__main__:2025-07-01 19:06:47.770859: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:06:54.965979: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:06:54.966218: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:06:54.966457: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:06:54.966675: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:06:54.966863: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:06:54.968205: Sproeitijd 1: 2025-07-01 18:58:00
+INFO:__main__:2025-07-01 19:06:54.968413: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:06:54.968668: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:06:54.970343: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:06:54.972148: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:06:54.973912: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:06:54.974713: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:06:55.480048: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:07:01.155240: Commando binnen voor id: 0 en value: 127
+INFO:__main__:2025-07-01 19:07:01.155440: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:07:01.155600: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:07:01.155746: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:07:01.155892: Commando binnen voor id: 4 en value: 2025-07-01 18:58
+INFO:__main__:2025-07-01 19:07:01.157124: Sproeitijd 1: 2025-07-01 18:58:00
+INFO:__main__:2025-07-01 19:07:01.157256: Sproeitijd 2: 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:07:01.157435: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:07:01.158603: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:07:01.159271: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:07:01.160117: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:07:01.160953: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:07:01.663694: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:07:16.676881: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:07:16.678071: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:07:16.678902: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:07:16.679906: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:07:16.680683: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:07:17.184088: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:07:33.203130: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:07:33.204351: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:07:33.205247: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:07:33.206154: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:07:33.206898: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:07:33.710291: PLC gestart, volgende aanroep op 2025-07-01 19:01:00
+INFO:__main__:2025-07-01 19:07:48.724274: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:07:48.725275: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:07:48.726251: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:07:48.727130: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:07:48.728038: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:07:49.230516: PLC gestart, volgende aanroep op 2025-07-01 19:02:00
+INFO:__main__:2025-07-01 19:08:05.248106: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:08:05.249464: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:08:05.250854: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:08:05.252186: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:08:05.253368: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:08:05.756508: PLC gestart, volgende aanroep op 2025-07-01 19:03:00
+INFO:__main__:2025-07-01 19:08:20.766156: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:08:20.767656: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:08:20.768363: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:08:20.769885: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:08:20.771053: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:08:21.273724: PLC gestart, volgende aanroep op 2025-07-01 19:04:00
+INFO:__main__:2025-07-01 19:08:37.164045: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:08:37.166619: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:08:37.167508: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:08:37.168532: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:08:37.169406: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:08:37.672068: PLC gestart, volgende aanroep op 2025-07-01 19:05:00
+INFO:__main__:2025-07-01 19:08:52.689220: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:08:52.690450: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:08:52.691819: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:08:52.693075: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:08:52.694117: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:08:53.196976: PLC gestart, volgende aanroep op 2025-07-01 19:06:00
+INFO:__main__:2025-07-01 19:09:09.224871: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:09:09.226159: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:09:09.227303: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:09:09.228607: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:09:09.229774: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:09:09.733085: PLC gestart, volgende aanroep op 2025-07-01 19:07:00
+INFO:__main__:2025-07-01 19:09:24.741056: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:09:24.742220: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:09:24.743621: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:09:24.744819: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:09:24.746152: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:09:25.249756: PLC gestart, volgende aanroep op 2025-07-01 19:08:00
+INFO:__main__:2025-07-01 19:09:41.220114: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:09:41.221463: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:09:41.222350: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:09:41.223286: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:09:41.224658: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:09:41.728340: PLC gestart, volgende aanroep op 2025-07-01 19:09:00
+INFO:__main__:2025-07-01 19:09:56.745105: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:09:56.746778: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:09:56.747699: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:09:56.748452: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:09:56.749913: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:09:57.252491: PLC gestart, volgende aanroep op 2025-07-01 19:10:00
+INFO:__main__:2025-07-01 19:10:13.286282: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:10:13.287499: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:10:13.289029: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:10:13.290233: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:10:13.291141: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:10:13.794920: PLC gestart, volgende aanroep op 2025-07-01 19:11:00
+INFO:__main__:2025-07-01 19:10:28.810570: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:10:28.811845: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:10:28.813132: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:10:28.814396: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:10:28.815651: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:10:29.318498: PLC gestart, volgende aanroep op 2025-07-01 19:12:00
+INFO:__main__:2025-07-01 19:10:45.277049: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:10:45.278398: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:10:45.279950: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:10:45.281642: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:10:45.282929: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:10:45.786766: PLC gestart, volgende aanroep op 2025-07-01 19:13:00
+INFO:__main__:2025-07-01 19:11:00.800541: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:11:00.802624: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:11:00.803892: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:11:00.805135: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:11:00.806171: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:11:01.308770: PLC gestart, volgende aanroep op 2025-07-01 19:14:00
+INFO:__main__:2025-07-01 19:11:17.351738: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:11:17.352876: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:11:17.353976: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:11:17.355577: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:11:17.356520: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:11:17.859269: PLC gestart, volgende aanroep op 2025-07-01 19:15:00
+INFO:__main__:2025-07-01 19:11:32.875489: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:11:32.876682: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:11:32.877851: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:11:32.878700: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:11:32.879561: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:11:33.382427: PLC gestart, volgende aanroep op 2025-07-01 19:16:00
+INFO:__main__:2025-07-01 19:11:49.372717: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:11:49.375175: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:11:49.376468: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:11:49.377972: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:11:49.378963: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:11:49.882752: PLC gestart, volgende aanroep op 2025-07-01 19:17:00
+INFO:__main__:2025-07-01 19:12:04.898350: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:12:04.899741: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:12:04.900627: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:12:04.902085: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:12:04.903318: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:12:05.405897: PLC gestart, volgende aanroep op 2025-07-01 19:18:00
+INFO:__main__:2025-07-01 19:12:20.422717: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:12:20.424057: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:12:20.424970: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:12:20.425833: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:12:20.426803: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:12:20.929599: PLC gestart, volgende aanroep op 2025-07-01 19:18:00
+INFO:__main__:2025-07-01 19:12:36.951553: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:12:36.952746: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:12:36.953688: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:12:36.955151: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:12:36.956357: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:12:37.459837: PLC gestart, volgende aanroep op 2025-07-01 19:18:00
+INFO:__main__:2025-07-01 19:12:52.476034: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:12:52.477177: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:12:52.478103: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:12:52.479013: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:12:52.479827: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:12:52.983565: PLC gestart, volgende aanroep op 2025-07-01 19:18:00
+INFO:__main__:2025-07-01 19:13:08.935861: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:13:08.937014: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:13:08.937876: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:13:08.938744: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:13:08.940811: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:13:09.444742: PLC gestart, volgende aanroep op 2025-07-01 19:19:00
+INFO:__main__:2025-07-01 19:13:24.456348: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:13:24.457704: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:13:24.458520: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:13:24.459476: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:13:24.460300: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:13:24.963061: PLC gestart, volgende aanroep op 2025-07-01 19:19:00
+INFO:__main__:2025-07-01 19:13:40.799074: Commando binnen voor id: 0 en value: 825
+INFO:__main__:2025-07-01 19:13:40.799508: Commando binnen voor id: 1 en value: 0
+INFO:__main__:2025-07-01 19:13:40.799816: Commando binnen voor id: 2 en value: 0
+INFO:__main__:2025-07-01 19:13:40.800123: Commando binnen voor id: 3 en value: 0
+INFO:__main__:2025-07-01 19:13:40.800428: Commando binnen voor id: 4 en value: 2005-07-01 11:11
+INFO:__main__:2025-07-01 19:13:40.800771: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-01 19:13:40.801901: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-01 19:13:40.803781: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-01 19:13:40.805645: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-01 19:13:40.807338: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-01 19:13:41.312126: PLC gestart
+INFO:__main__:2025-07-01 19:13:56.324440: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:13:56.325353: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:13:56.325983: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:13:56.326874: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:13:56.327834: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:13:56.830476: PLC gestart, volgende aanroep op 2025-07-01 19:19:00
+INFO:__main__:2025-07-01 19:14:12.751729: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:14:12.752871: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:14:12.753736: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:14:12.754641: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:14:12.755460: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:14:13.258502: PLC gestart, volgende aanroep op 2025-07-01 19:20:00
+INFO:__main__:2025-07-01 19:14:28.269654: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:14:28.270807: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:14:28.271758: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:14:28.272655: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:14:28.273532: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:14:28.776316: PLC gestart, volgende aanroep op 2025-07-01 19:20:00
+INFO:__main__:2025-07-01 19:14:44.705382: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:14:44.706557: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:14:44.707399: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:14:44.708424: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:14:44.709241: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:14:45.212274: PLC gestart, volgende aanroep op 2025-07-01 19:20:00
+INFO:__main__:2025-07-01 19:15:00.222792: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:15:00.223567: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:15:00.224504: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:15:00.225223: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:15:00.226834: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:15:00.729389: PLC gestart, volgende aanroep op 2025-07-01 19:21:00
+INFO:__main__:2025-07-01 19:15:16.665026: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:15:16.665839: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:15:16.666820: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:15:16.667893: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:15:16.669465: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:15:17.171659: PLC gestart, volgende aanroep op 2025-07-01 19:21:00
+INFO:__main__:2025-07-01 19:15:32.188550: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:15:32.189850: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:15:32.190713: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:15:32.191553: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:15:32.192574: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:15:32.694982: PLC gestart, volgende aanroep op 2025-07-01 19:21:00
+INFO:__main__:2025-07-01 19:15:48.625673: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:15:48.626954: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:15:48.627817: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:15:48.628774: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:15:48.629704: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:15:49.132086: PLC gestart, volgende aanroep op 2025-07-01 19:21:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:15:54.032517: Commando binnen voor id: 0 en value: 825
+INFO:__main__:2025-07-01 19:15:54.032742: Commando binnen voor id: 1 en value: 0
+INFO:__main__:2025-07-01 19:15:54.032970: Commando binnen voor id: 2 en value: 0
+INFO:__main__:2025-07-01 19:15:54.033153: Commando binnen voor id: 3 en value: 0
+INFO:__main__:2025-07-01 19:15:54.033306: Commando binnen voor id: 4 en value: 2005-07-01 11:11
+INFO:__main__:2025-07-01 19:15:54.034494: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-01 19:15:54.036152: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-01 19:15:54.036794: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-01 19:15:54.037750: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-01 19:15:54.038625: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-01 19:15:54.540948: PLC gestart
+INFO:__main__:2025-07-01 19:16:09.552630: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-01 19:16:09.554081: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-01 19:16:09.554910: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-01 19:16:09.555795: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-01 19:16:09.556738: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-01 19:16:10.059564: PLC gestart, volgende aanroep op 2025-07-02 19:15:54.029282
+INFO:__main__:2025-07-01 19:16:25.999687: Commando binnen voor id: 0 en value: 227
+INFO:__main__:2025-07-01 19:16:26.000062: Commando binnen voor id: 1 en value: 3
+INFO:__main__:2025-07-01 19:16:26.000391: Commando binnen voor id: 2 en value: 3
+INFO:__main__:2025-07-01 19:16:26.000749: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-01 19:16:26.001061: Commando binnen voor id: 4 en value: 2025-07-01 19:17
+INFO:__main__:2025-07-01 19:16:26.001551: Sproeitijd 1: 2025-07-01 19:17:00
+INFO:__main__:2025-07-01 19:16:26.001846: Sproeitijd 2: 2025-07-01 19:19:00
+INFO:__main__:2025-07-01 19:16:26.002198: Schrijf normaal: 3 naar 1
+INFO:__main__:2025-07-01 19:16:26.003313: Schrijf normaal: 3 naar 2
+INFO:__main__:2025-07-01 19:16:26.005118: Schrijf normaal: 3 naar 3
+INFO:__main__:2025-07-01 19:16:26.006818: Schrijf normaal: 3 naar 5
+INFO:__main__:2025-07-01 19:16:26.008641: Schrijf normaal: 6 naar 6
+INFO:__main__:2025-07-01 19:16:26.513200: PLC gestart
+INFO:__main__:2025-07-01 19:16:41.521352: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:16:41.522360: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:16:41.523268: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:16:41.524235: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:16:41.525101: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:16:42.027517: PLC gestart, volgende aanroep op 2025-07-02 19:17:00
+INFO:__main__:2025-07-01 19:16:57.974661: Schrijf repeated: 3 naar 1
+INFO:__main__:2025-07-01 19:16:57.976074: Schrijf repeated: 3 naar 2
+INFO:__main__:2025-07-01 19:16:57.977222: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-01 19:16:57.978095: Schrijf repeated: 3 naar 5
+INFO:__main__:2025-07-01 19:16:57.978953: Schrijf repeated: 6 naar 6
+INFO:__main__:2025-07-01 19:16:58.481642: PLC gestart, volgende aanroep op 2025-07-02 19:19:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:18:22.414319: Commando binnen voor id: -1 en value: ABORT
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:18:23.591360: Commando binnen voor id: -1 en value: ABORT
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:18:44.356681: Commando binnen voor id: -1 en value: ABORT
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-01 19:19:35.753028: Aborted
+INFO:__main__:2025-07-01 19:19:35.753315: Commando binnen voor id: 0 en value: 472
+INFO:__main__:2025-07-01 19:19:35.753583: Commando binnen voor id: 1 en value: 0
+INFO:__main__:2025-07-01 19:19:35.753840: Commando binnen voor id: 2 en value: 0
+INFO:__main__:2025-07-01 19:19:35.754091: Commando binnen voor id: 3 en value: 0
+INFO:__main__:2025-07-01 19:19:35.754343: Commando binnen voor id: 4 en value: 2005-07-01 11:11
+INFO:__main__:2025-07-01 19:19:35.755590: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-01 19:19:35.757720: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-01 19:19:35.759927: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-01 19:19:35.762000: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-01 19:19:35.764209: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-01 19:19:36.269558: PLC gestart
+INFO:__main__:2025-07-01 19:19:51.285478: Aborted
+INFO:__main__:2025-07-01 19:20:07.500803: Commando binnen voor id: 0 en value: 726
+INFO:__main__:2025-07-01 19:20:07.501169: Commando binnen voor id: 1 en value: 4
+INFO:__main__:2025-07-01 19:20:07.501480: Commando binnen voor id: 2 en value: 4
+INFO:__main__:2025-07-01 19:20:07.501775: Commando binnen voor id: 3 en value: 4
+INFO:__main__:2025-07-01 19:20:07.502051: Commando binnen voor id: 4 en value: 2025-07-01 19:20
+INFO:__main__:2025-07-01 19:20:07.502543: Sproeitijd 1: 2025-07-02 19:20:00
+INFO:__main__:2025-07-01 19:20:07.502812: Sproeitijd 2: 2025-07-01 19:22:00
+INFO:__main__:2025-07-01 19:20:07.503128: Schrijf repeated: 4 naar 1
+INFO:__main__:2025-07-01 19:20:07.504050: Schrijf repeated: 4 naar 2
+INFO:__main__:2025-07-01 19:20:07.505782: Schrijf repeated: 4 naar 3
+INFO:__main__:2025-07-01 19:20:07.507527: Schrijf repeated: 4 naar 5
+INFO:__main__:2025-07-01 19:20:07.509254: Schrijf repeated: 8 naar 6
+INFO:__main__:2025-07-01 19:20:08.015239: PLC gestart, volgende aanroep op 2025-07-02 19:22:00
+INFO:__main__:2025-07-01 19:21:09.010309: Aborted
+INFO:__main__:2025-07-01 19:21:09.010730: Commando binnen voor id: 0 en value: 138
+INFO:__main__:2025-07-01 19:21:09.011073: Commando binnen voor id: 1 en value: 0
+INFO:__main__:2025-07-01 19:21:09.011411: Commando binnen voor id: 2 en value: 0
+INFO:__main__:2025-07-01 19:21:09.011747: Commando binnen voor id: 3 en value: 0
+INFO:__main__:2025-07-01 19:21:09.012081: Commando binnen voor id: 4 en value: 2005-07-01 11:11
+INFO:__main__:2025-07-01 19:21:09.012469: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-01 19:21:09.013465: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-01 19:21:09.015226: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-01 19:21:09.018060: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-01 19:21:09.019767: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-01 19:21:09.524817: PLC gestart
+INFO:__main__:2025-07-01 19:21:25.493751: Aborted
+INFO:__main__:2025-07-01 19:21:40.510897: Aborted
+INFO:__main__:2025-07-01 19:21:56.439360: Aborted
+INFO:__main__:2025-07-01 19:22:11.456465: Aborted
+INFO:__main__:2025-07-01 19:22:27.415857: Aborted
+INFO:__main__:2025-07-01 19:22:42.432728: Aborted
+INFO:__main__:2025-07-01 19:22:58.406569: Aborted
+INFO:__main__:2025-07-01 19:23:13.423410: Aborted
+INFO:__main__:2025-07-01 19:23:29.402956: Aborted
+INFO:__main__:2025-07-01 19:23:44.419676: Aborted
+INFO:__main__:2025-07-01 19:24:00.389415: Aborted
+INFO:__main__:2025-07-01 19:24:15.405109: Aborted
+INFO:__main__:2025-07-01 19:24:30.421958: Aborted
+INFO:__main__:2025-07-01 19:24:46.474901: Aborted
+INFO:__main__:2025-07-01 19:25:01.477686: Aborted
+INFO:__main__:2025-07-01 19:25:17.475638: Aborted
+INFO:__main__:2025-07-01 19:25:32.492362: Aborted
+INFO:__main__:2025-07-01 19:25:48.459986: Aborted
+INFO:__main__:2025-07-01 19:26:03.477048: Aborted
+INFO:__main__:2025-07-01 19:26:19.461170: Aborted
+INFO:__main__:2025-07-01 19:26:34.478139: Aborted
+INFO:__main__:2025-07-01 19:26:50.525952: Aborted
+INFO:__main__:2025-07-01 19:27:05.535472: Aborted
+INFO:__main__:2025-07-01 19:27:21.563344: Aborted
+INFO:__main__:2025-07-01 19:27:36.572512: Aborted
+INFO:__main__:2025-07-01 19:27:52.581741: Aborted
+INFO:__main__:2025-07-01 19:28:07.594917: Aborted
+INFO:__main__:2025-07-01 19:28:22.609284: Aborted
+INFO:__main__:2025-07-01 19:28:38.664976: Aborted
+INFO:__main__:2025-07-01 19:28:53.679689: Aborted
+INFO:__main__:2025-07-01 19:29:09.695134: Aborted
+INFO:__main__:2025-07-01 19:29:24.710450: Aborted
+INFO:__main__:2025-07-01 19:29:40.714001: Aborted
+INFO:__main__:2025-07-01 19:29:55.729303: Aborted
+INFO:__main__:2025-07-01 19:30:11.692301: Aborted
+INFO:__main__:2025-07-01 19:30:26.707767: Aborted
+INFO:__main__:2025-07-01 19:30:42.670752: Aborted
+INFO:__main__:2025-07-01 19:30:57.684191: Aborted
+INFO:__main__:2025-07-01 19:31:13.684622: Aborted
+INFO:__main__:2025-07-01 19:31:28.698864: Aborted
+INFO:__main__:2025-07-01 19:31:44.689230: Aborted
+INFO:__main__:2025-07-01 19:31:59.703546: Aborted
+INFO:__main__:2025-07-01 19:32:14.718807: Aborted
+INFO:__main__:2025-07-01 19:32:30.701532: Aborted
+INFO:__main__:2025-07-01 19:32:45.716774: Aborted
+INFO:__main__:2025-07-01 19:33:01.687950: Aborted
+INFO:__main__:2025-07-01 19:33:16.702856: Aborted
+INFO:__main__:2025-07-01 19:33:32.610822: Aborted
+INFO:__main__:2025-07-01 19:33:47.620325: Aborted
+INFO:__main__:2025-07-01 19:34:03.564755: Aborted
+INFO:__main__:2025-07-01 19:34:18.573810: Aborted
+INFO:__main__:2025-07-01 19:34:34.524500: Aborted
+INFO:__main__:2025-07-01 19:34:49.532825: Aborted
+INFO:__main__:2025-07-01 19:35:05.475941: Aborted
+INFO:__main__:2025-07-01 19:35:20.484081: Aborted
+INFO:__main__:2025-07-01 19:35:35.499041: Aborted
+INFO:__main__:2025-07-01 19:35:51.441241: Aborted
+INFO:__main__:2025-07-01 19:36:06.448728: Aborted
+INFO:__main__:2025-07-01 19:36:22.390647: Aborted
+INFO:__main__:2025-07-01 19:36:37.404802: Aborted
+INFO:__main__:2025-07-01 19:36:53.345574: Aborted
+INFO:__main__:2025-07-01 19:37:08.352098: Aborted
+INFO:__main__:2025-07-01 19:37:24.292161: Aborted
+INFO:__main__:2025-07-01 19:37:39.305397: Aborted
+INFO:__main__:2025-07-01 19:37:55.243584: Aborted
+INFO:__main__:2025-07-01 19:38:10.249314: Aborted
+INFO:__main__:2025-07-01 19:38:26.182308: Aborted
+INFO:__main__:2025-07-01 19:38:41.194722: Aborted
+INFO:__main__:2025-07-01 19:38:57.113559: Aborted
+INFO:__main__:2025-07-01 19:39:12.118617: Aborted
+INFO:__main__:2025-07-01 19:39:27.127683: Aborted
+INFO:__main__:2025-07-01 19:39:43.020171: Aborted
+INFO:__main__:2025-07-01 19:39:58.024261: Aborted
+INFO:__main__:2025-07-01 19:40:13.931650: Aborted
+INFO:__main__:2025-07-01 19:40:28.936471: Aborted
+INFO:__main__:2025-07-01 19:40:44.897673: Aborted
+INFO:__main__:2025-07-01 19:40:59.901530: Aborted
+INFO:__main__:2025-07-01 19:41:15.813965: Aborted
+INFO:__main__:2025-07-01 19:41:30.818140: Aborted
+INFO:__main__:2025-07-01 19:41:46.724287: Aborted
+INFO:__main__:2025-07-01 19:42:01.728145: Aborted
+INFO:__main__:2025-07-01 19:42:17.646698: Aborted
+INFO:__main__:2025-07-01 19:42:32.650472: Aborted
+INFO:__main__:2025-07-01 19:42:48.567694: Aborted
+INFO:__main__:2025-07-01 19:43:03.571454: Aborted
+INFO:__main__:2025-07-01 19:43:18.575632: Aborted
+INFO:__main__:2025-07-01 19:43:34.484733: Aborted
+INFO:__main__:2025-07-01 19:43:49.494086: Aborted
+INFO:__main__:2025-07-01 19:44:05.402432: Aborted
+INFO:__main__:2025-07-01 19:44:20.406225: Aborted
+INFO:__main__:2025-07-01 19:44:36.313935: Aborted
+INFO:__main__:2025-07-01 19:44:51.321965: Aborted
+INFO:__main__:2025-07-01 19:45:07.216839: Aborted
+INFO:__main__:2025-07-01 19:45:22.234013: Aborted
+INFO:__main__:2025-07-01 19:45:37.260466: Aborted
+INFO:__main__:2025-07-01 19:45:53.124445: Aborted
+INFO:__main__:2025-07-01 19:46:08.133393: Aborted
+INFO:__main__:2025-07-01 19:46:23.818368: Aborted
+INFO:__main__:2025-07-01 19:46:38.821430: Aborted
+INFO:__main__:2025-07-01 19:46:53.830243: Aborted
+INFO:__main__:2025-07-01 19:47:09.602345: Aborted
+INFO:__main__:2025-07-01 19:47:24.613493: Aborted
+INFO:__main__:2025-07-01 19:47:40.341343: Aborted
+INFO:__main__:2025-07-01 19:47:55.351296: Aborted
+INFO:__main__:2025-07-01 19:48:11.116872: Aborted
+INFO:__main__:2025-07-01 19:48:26.124249: Aborted
+INFO:__main__:2025-07-01 19:48:41.852069: Aborted
+INFO:__main__:2025-07-01 19:48:56.858798: Aborted
+INFO:__main__:2025-07-01 19:49:12.594656: Aborted
+INFO:__main__:2025-07-01 19:49:27.601473: Aborted
+INFO:__main__:2025-07-01 19:49:43.344127: Aborted
+INFO:__main__:2025-07-01 19:49:58.353025: Aborted
+INFO:__main__:2025-07-01 19:50:14.101630: Aborted
+INFO:__main__:2025-07-01 19:50:29.109127: Aborted
+INFO:__main__:2025-07-01 19:50:44.118930: Aborted
+INFO:__main__:2025-07-01 19:50:59.866624: Aborted
+INFO:__main__:2025-07-01 19:51:14.883462: Aborted
+INFO:__main__:2025-07-01 19:51:30.651290: Aborted
+INFO:__main__:2025-07-01 19:51:45.667226: Aborted
+INFO:__main__:2025-07-01 19:52:01.424500: Aborted
+INFO:__main__:2025-07-01 19:52:16.439421: Aborted
+INFO:__main__:2025-07-01 19:52:32.216942: Aborted
+INFO:__main__:2025-07-01 19:52:47.221932: Aborted
+INFO:__main__:2025-07-01 19:53:02.937166: Aborted
+INFO:__main__:2025-07-01 19:53:17.943984: Aborted
+INFO:__main__:2025-07-01 19:53:33.646812: Aborted
+INFO:__main__:2025-07-01 19:53:48.653427: Aborted
+INFO:__main__:2025-07-01 19:54:04.359123: Aborted
+INFO:__main__:2025-07-01 19:54:19.372708: Aborted
+INFO:__main__:2025-07-01 19:54:34.378703: Aborted
+INFO:__main__:2025-07-01 19:54:50.092517: Aborted
+INFO:__main__:2025-07-01 19:55:05.104423: Aborted
+INFO:__main__:2025-07-01 19:55:20.811663: Aborted
+INFO:__main__:2025-07-01 19:55:35.818412: Aborted
+INFO:__main__:2025-07-01 19:55:51.528695: Aborted
+INFO:__main__:2025-07-01 19:56:06.534351: Aborted
+INFO:__main__:2025-07-01 19:56:22.249060: Aborted
+INFO:__main__:2025-07-01 19:56:37.252795: Aborted
+INFO:__main__:2025-07-01 19:56:52.960138: Aborted
+INFO:__main__:2025-07-01 19:57:07.965790: Aborted
+INFO:__main__:2025-07-01 19:57:23.633958: Aborted
+INFO:__main__:2025-07-01 19:57:38.639886: Aborted
+INFO:__main__:2025-07-01 19:57:53.645714: Aborted
+INFO:__main__:2025-07-01 19:58:09.326020: Aborted
+INFO:__main__:2025-07-01 19:58:24.331671: Aborted
+INFO:__main__:2025-07-01 19:58:40.015083: Aborted
+INFO:__main__:2025-07-01 19:58:55.020559: Aborted
+INFO:__main__:2025-07-01 19:59:10.702873: Aborted
+INFO:__main__:2025-07-01 19:59:25.715567: Aborted
+INFO:__main__:2025-07-01 19:59:41.398269: Aborted
+INFO:__main__:2025-07-01 19:59:56.403356: Aborted
+INFO:__main__:2025-07-01 20:00:12.085439: Aborted
+INFO:__main__:2025-07-01 20:00:27.090445: Aborted
+INFO:__main__:2025-07-01 20:00:42.771232: Aborted
+INFO:__main__:2025-07-01 20:00:57.776180: Aborted
+INFO:__main__:2025-07-01 20:01:13.457726: Aborted
+INFO:__main__:2025-07-01 20:01:28.469415: Aborted
+INFO:__main__:2025-07-01 20:01:43.473782: Aborted
+INFO:__main__:2025-07-01 20:01:59.154607: Aborted
+INFO:__main__:2025-07-01 20:02:14.160847: Aborted
+INFO:__main__:2025-07-01 20:02:29.835046: Aborted
+INFO:__main__:2025-07-01 20:02:44.839895: Aborted
+INFO:__main__:2025-07-01 20:03:00.470884: Aborted
+INFO:__main__:2025-07-01 20:03:15.476799: Aborted
+INFO:__main__:2025-07-01 20:03:31.134044: Aborted
+INFO:__main__:2025-07-01 20:03:46.137801: Aborted
+INFO:__main__:2025-07-01 20:04:01.872187: Aborted
+INFO:__main__:2025-07-01 20:04:16.879284: Aborted
+INFO:__main__:2025-07-01 20:04:32.551771: Aborted
+INFO:__main__:2025-07-01 20:04:47.555105: Aborted
+INFO:__main__:2025-07-01 20:05:03.257792: Aborted
+INFO:__main__:2025-07-01 20:05:18.260989: Aborted
+INFO:__main__:2025-07-01 20:05:33.264383: Aborted
+INFO:__main__:2025-07-01 20:05:48.954713: Aborted
+INFO:__main__:2025-07-01 20:06:03.976067: Aborted
+INFO:__main__:2025-07-01 20:06:19.553201: Aborted
+INFO:__main__:2025-07-01 20:06:34.562690: Aborted
+INFO:__main__:2025-07-01 20:06:50.242081: Aborted
+INFO:__main__:2025-07-01 20:07:05.249693: Aborted
+INFO:__main__:2025-07-01 20:07:20.913907: Aborted
+INFO:__main__:2025-07-01 20:07:35.930739: Aborted
+INFO:__main__:2025-07-01 20:07:51.599563: Aborted
+INFO:__main__:2025-07-01 20:08:06.616873: Aborted
+INFO:__main__:2025-07-01 20:08:22.276555: Aborted
+INFO:__main__:2025-07-01 20:08:37.292104: Aborted
+INFO:__main__:2025-07-01 20:08:52.900838: Aborted
+INFO:__main__:2025-07-01 20:09:07.904459: Aborted
+INFO:__main__:2025-07-01 20:09:22.909797: Aborted
+INFO:__main__:2025-07-01 20:09:38.520707: Aborted
+INFO:__main__:2025-07-01 20:09:53.527459: Aborted
+INFO:__main__:2025-07-01 20:10:09.130911: Aborted
+INFO:__main__:2025-07-01 20:10:24.138695: Aborted
+INFO:__main__:2025-07-01 20:10:39.729655: Aborted
+INFO:__main__:2025-07-01 20:10:54.746497: Aborted
+INFO:__main__:2025-07-01 20:11:10.336679: Aborted
+INFO:__main__:2025-07-01 20:11:25.353656: Aborted
+INFO:__main__:2025-07-01 20:11:40.946651: Aborted
+INFO:__main__:2025-07-01 20:11:55.963719: Aborted
+INFO:__main__:2025-07-01 20:12:11.555109: Aborted
+INFO:__main__:2025-07-01 20:12:26.572201: Aborted
+INFO:__main__:2025-07-01 20:12:41.587330: Aborted
+INFO:__main__:2025-07-01 20:12:57.181544: Aborted
+INFO:__main__:2025-07-01 20:13:12.186891: Aborted
+INFO:__main__:2025-07-01 20:13:27.775463: Aborted
+INFO:__main__:2025-07-01 20:13:42.787389: Aborted
+INFO:__main__:2025-07-01 20:13:58.384299: Aborted
+INFO:__main__:2025-07-01 20:14:13.387463: Aborted
+INFO:__main__:2025-07-01 20:14:28.987648: Aborted
+INFO:__main__:2025-07-01 20:14:43.996172: Aborted
+INFO:__main__:2025-07-01 20:14:59.595945: Aborted
+INFO:__main__:2025-07-01 20:15:14.613041: Aborted
+INFO:__main__:2025-07-01 20:15:30.207371: Aborted
+INFO:__main__:2025-07-01 20:15:45.215601: Aborted
+INFO:__main__:2025-07-01 20:16:00.805584: Aborted
+INFO:__main__:2025-07-01 20:16:15.822657: Aborted
+INFO:__main__:2025-07-01 20:16:30.831095: Aborted
+INFO:__main__:2025-07-01 20:16:46.413250: Aborted
+INFO:__main__:2025-07-01 20:17:01.430350: Aborted
+INFO:__main__:2025-07-01 20:17:17.020260: Aborted
+INFO:__main__:2025-07-01 20:17:32.037439: Aborted
+INFO:__main__:2025-07-01 20:17:47.614147: Aborted
+INFO:__main__:2025-07-01 20:18:02.628450: Aborted
+INFO:__main__:2025-07-01 20:18:18.176459: Aborted
+INFO:__main__:2025-07-01 20:18:33.190966: Aborted
+INFO:__main__:2025-07-01 20:18:48.772732: Aborted
+INFO:__main__:2025-07-01 20:19:03.787576: Aborted
+INFO:__main__:2025-07-01 20:19:19.369564: Aborted
+INFO:__main__:2025-07-01 20:19:34.383965: Aborted
