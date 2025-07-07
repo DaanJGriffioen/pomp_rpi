@@ -37,10 +37,10 @@ repeat_datetime_2     = datetime.now()
 start_datetime        = datetime.now()
 
 client              = ModbusTcpClient('192.168.0.3', port=502)
-TIJDEN_URL          = "http://192.168.1.15/nwgspuit/tijden.txt"
+TIJDEN_URL          = "http://localhost/nwgspuit/tijden.txt"
 
 herhalen            = False
-herhaal_eens        = True
+herhaal_eens        = False
 wachten             = False
 
 spray_times         = [0, 0, 0]
@@ -69,6 +69,7 @@ def read_data():
         doc = requests.get(TIJDEN_URL)
     except:
         log(f"Kon webpagina {TIJDEN_URL} niet bereiken")
+        return "-1"
     return doc.content.decode()
 
 # Verwerk de data in de spray_times en wait_times arrays
@@ -199,12 +200,14 @@ def start_plc():
 def main():
     data = read_data()
     for line in data.split('\n'):
-        if line != '':
+        
+        if line != '' and line != "-1":
             if not parse_data(line):
                 return False
             else:
                 update_wait_time()
-
+        elif line == "-1":
+            return False
     return True
 
 
@@ -230,7 +233,8 @@ if __name__ == "__main__":
             print("Herhaald")
             send_commands(True)
             start_plc()
-            log(f"PLC gestart, volgende aanroep op {next_datetime(repeat_datetime_1, repeat_datetime_2)}")
+            if herhalen:
+                log(f"PLC gestart, volgende aanroep op {next_datetime(repeat_datetime_1, repeat_datetime_2)}")
 
-        time.sleep(15)
+        time.sleep(5)
             
