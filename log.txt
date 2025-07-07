@@ -1061,3 +1061,263 @@ INFO:__main__:2025-07-01 20:18:48.772732: Aborted
 INFO:__main__:2025-07-01 20:19:03.787576: Aborted
 INFO:__main__:2025-07-01 20:19:19.369564: Aborted
 INFO:__main__:2025-07-01 20:19:34.383965: Aborted
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:10:09.781562: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:11:24.965812: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:11:24.966137: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:11:24.967683: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:11:24.969200: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:11:24.970738: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:11:24.971552: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:11:25.474942: PLC gestart
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:11:40.280713: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:11:40.281070: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:11:40.282867: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:11:40.283881: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:11:40.284905: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:11:40.285721: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:11:40.789232: PLC gestart
+INFO:__main__:2025-07-07 13:11:57.891635: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:11:57.891984: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:11:57.892924: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:11:57.893971: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:11:57.894776: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:11:57.895767: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:11:58.401403: PLC gestart
+INFO:__main__:2025-07-07 13:12:15.924264: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:12:15.924723: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:12:15.925990: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:12:15.926791: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:12:15.927728: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:12:15.928595: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:12:16.431422: PLC gestart
+INFO:__main__:2025-07-07 13:12:32.767555: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:12:32.768022: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:12:32.769195: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:12:32.770171: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:12:32.771102: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:12:32.772018: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:12:33.275463: PLC gestart
+INFO:__main__:2025-07-07 13:12:51.270724: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:12:51.271073: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:12:51.271972: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:12:51.272966: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:12:51.273875: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:12:51.274792: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:12:51.778038: PLC gestart
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:13:29.327760: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:13:29.328184: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:13:29.329833: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:13:29.330501: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:13:29.331412: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:13:29.332332: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:13:29.836256: PLC gestart
+INFO:__main__:2025-07-07 13:13:37.807109: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:13:37.807539: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:13:37.808787: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:13:37.810018: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:13:37.811019: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:13:37.812834: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:13:38.317174: PLC gestart
+INFO:__main__:2025-07-07 13:13:45.811511: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:13:45.812019: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:13:45.815024: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:13:45.815753: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:13:45.816930: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:13:45.817772: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:13:46.320767: PLC gestart
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:13:49.798518: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:13:49.798943: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:13:49.800947: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:13:49.802102: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:13:49.803722: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:13:49.805080: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:13:50.308585: PLC gestart
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:14:57.278531: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:15:11.847262: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:15:30.909902: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:15:30.910433: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:15:30.912201: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:15:30.912861: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:15:30.913883: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:15:30.914742: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:15:31.417392: PLC gestart
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:15:39.786392: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:15:39.786832: Schrijf normaal: 0 naar 1
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:15:57.835969: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:15:57.836441: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:15:57.838578: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:15:57.839414: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:15:57.840873: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:15:57.841799: Schrijf normaal: 0 naar 6
+INFO:__main__:2025-07-07 13:15:58.344488: PLC gestart
+INFO:__main__:2025-07-07 13:16:06.298209: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:16:06.298543: Schrijf normaal: 0 naar 1
+INFO:__main__:2025-07-07 13:16:06.299503: Schrijf normaal: 0 naar 2
+INFO:__main__:2025-07-07 13:16:06.300358: Schrijf normaal: 0 naar 3
+INFO:__main__:2025-07-07 13:16:06.301258: Schrijf normaal: 0 naar 5
+INFO:__main__:2025-07-07 13:16:06.302168: Schrijf normaal: 0 naar 6
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:16:10.305440: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:16:10.305856: Schrijf repeated: 0 naar 1
+INFO:__main__:2025-07-07 13:16:10.307550: Schrijf repeated: 0 naar 2
+INFO:__main__:2025-07-07 13:16:10.308802: Schrijf repeated: 0 naar 3
+INFO:__main__:2025-07-07 13:16:10.310162: Schrijf repeated: 0 naar 5
+INFO:__main__:2025-07-07 13:16:10.310952: Schrijf repeated: 0 naar 6
+INFO:__main__:2025-07-07 13:16:10.817938: PLC gestart, volgende aanroep op 2025-07-08 13:16:07.401687
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:16:39.786331: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:16:47.341724: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:16:55.312213: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:02.288666: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:10.241689: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:18.324703: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:25.858238: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:33.835213: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:41.773829: Kon webpagina http://192.168.1.15/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:17:44.488043: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:49.499686: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:54.513107: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:17:59.519621: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:18:04.526103: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:18:09.527861: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:18:14.534155: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:2025-07-07 13:18:19.568336: Kon webpagina http://localhost/nwgspuit/tijden.txt niet bereiken
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:18:28.794728: Commando binnen voor id: 0 en value: 319
+INFO:__main__:2025-07-07 13:18:28.794728: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-07 13:18:28.794728: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-07 13:18:28.794728: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-07 13:18:28.794728: Commando binnen voor id: 4 en value: 2025-07-07 13:17
+INFO:__main__:2025-07-07 13:18:28.796729: Schrijf normaal: 2 naar 1
+INFO:__main__:2025-07-07 13:18:28.797806: Schrijf normaal: 2 naar 2
+INFO:__main__:2025-07-07 13:18:28.800351: Schrijf normaal: 2 naar 3
+INFO:__main__:2025-07-07 13:18:28.801819: Schrijf normaal: 2 naar 5
+INFO:__main__:2025-07-07 13:18:28.803797: Schrijf normaal: 4 naar 6
+INFO:__main__:2025-07-07 13:18:29.306984: PLC gestart
+INFO:__main__:2025-07-07 13:20:09.354045: Commando binnen voor id: 0 en value: 611
+INFO:__main__:2025-07-07 13:20:09.354045: Commando binnen voor id: 1 en value: 5
+INFO:__main__:2025-07-07 13:20:09.354045: Commando binnen voor id: 2 en value: 4
+INFO:__main__:2025-07-07 13:20:09.354045: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-07 13:20:09.354045: Commando binnen voor id: 4 en value: 2025-07-07 13:26
+INFO:__main__:2025-07-07 13:20:09.354045: Sproeitijd 1: 2025-07-07 13:26:00
+INFO:__main__:2025-07-07 13:20:09.354045: Sproeitijd 2: 2025-07-07 13:27:00
+INFO:__main__:2025-07-07 13:20:09.354045: Schrijf normaal: 5 naar 1
+INFO:__main__:2025-07-07 13:20:09.355044: Schrijf normaal: 4 naar 2
+INFO:__main__:2025-07-07 13:20:09.356044: Schrijf normaal: 3 naar 3
+INFO:__main__:2025-07-07 13:20:09.358044: Schrijf normaal: 5 naar 5
+INFO:__main__:2025-07-07 13:20:09.360044: Schrijf normaal: 9 naar 6
+INFO:__main__:2025-07-07 13:20:09.864879: PLC gestart
+INFO:__main__:2025-07-07 13:21:04.890361: Schrijf repeated: 5 naar 1
+INFO:__main__:2025-07-07 13:21:04.890361: Schrijf repeated: 4 naar 2
+INFO:__main__:2025-07-07 13:21:04.891361: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-07 13:21:04.891361: Schrijf repeated: 5 naar 5
+INFO:__main__:2025-07-07 13:21:04.892361: Schrijf repeated: 9 naar 6
+INFO:__main__:2025-07-07 13:21:05.393363: PLC gestart, volgende aanroep op 2025-07-08 13:26:00
+INFO:__main__:2025-07-07 13:22:00.421084: Schrijf repeated: 5 naar 1
+INFO:__main__:2025-07-07 13:22:00.421084: Schrijf repeated: 4 naar 2
+INFO:__main__:2025-07-07 13:22:00.422091: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-07 13:22:00.422994: Schrijf repeated: 5 naar 5
+INFO:__main__:2025-07-07 13:22:00.423154: Schrijf repeated: 9 naar 6
+INFO:__main__:2025-07-07 13:22:00.924749: PLC gestart, volgende aanroep op 2025-07-08 13:27:00
+INFO:__main__:2025-07-07 13:24:46.001735: Commando binnen voor id: 0 en value: 431
+INFO:__main__:2025-07-07 13:24:46.001735: Commando binnen voor id: 1 en value: 5
+INFO:__main__:2025-07-07 13:24:46.001735: Commando binnen voor id: 2 en value: 4
+INFO:__main__:2025-07-07 13:24:46.001735: Commando binnen voor id: 3 en value: 3
+INFO:__main__:2025-07-07 13:24:46.001735: Commando binnen voor id: 4 en value: 2025-07-07 13:30
+INFO:__main__:2025-07-07 13:24:46.001735: Sproeitijd 1: 2025-07-07 13:30:00
+INFO:__main__:2025-07-07 13:24:46.001735: Sproeitijd 2: 2025-07-07 13:31:00
+INFO:__main__:2025-07-07 13:24:46.001735: Schrijf normaal: 5 naar 1
+INFO:__main__:2025-07-07 13:24:46.002735: Schrijf normaal: 4 naar 2
+INFO:__main__:2025-07-07 13:24:46.002735: Schrijf normaal: 3 naar 3
+INFO:__main__:2025-07-07 13:24:46.003740: Schrijf normaal: 5 naar 5
+INFO:__main__:2025-07-07 13:24:46.003740: Schrijf normaal: 9 naar 6
+INFO:__main__:2025-07-07 13:24:46.505175: PLC gestart
+INFO:__main__:2025-07-07 13:25:01.512632: Schrijf repeated: 5 naar 1
+INFO:__main__:2025-07-07 13:25:01.512632: Schrijf repeated: 4 naar 2
+INFO:__main__:2025-07-07 13:25:01.513632: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-07 13:25:01.514632: Schrijf repeated: 5 naar 5
+INFO:__main__:2025-07-07 13:25:01.514632: Schrijf repeated: 9 naar 6
+INFO:__main__:2025-07-07 13:25:02.016323: PLC gestart, volgende aanroep op 2025-07-08 13:30:00
+INFO:__main__:2025-07-07 13:26:02.044938: Schrijf repeated: 5 naar 1
+INFO:__main__:2025-07-07 13:26:02.044938: Schrijf repeated: 4 naar 2
+INFO:__main__:2025-07-07 13:26:02.046114: Schrijf repeated: 3 naar 3
+INFO:__main__:2025-07-07 13:26:02.046685: Schrijf repeated: 5 naar 5
+INFO:__main__:2025-07-07 13:26:02.046685: Schrijf repeated: 9 naar 6
+INFO:__main__:2025-07-07 13:26:02.547746: PLC gestart, volgende aanroep op 2025-07-08 13:31:00
+INFO:__main__:2025-07-07 13:30:37.680435: Commando binnen voor id: 0 en value: 972
+INFO:__main__:2025-07-07 13:30:37.680435: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-07 13:30:37.680435: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-07 13:30:37.680435: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-07 13:30:37.680435: Commando binnen voor id: 4 en value: 2025-07-07 13:30
+INFO:__main__:2025-07-07 13:30:37.680435: Sproeitijd 1: 2025-07-08 13:30:00
+INFO:__main__:2025-07-07 13:30:37.680435: Sproeitijd 2: 2025-07-07 13:40:00
+INFO:__main__:2025-07-07 13:30:37.680435: Schrijf normaal: 2 naar 1
+INFO:__main__:2025-07-07 13:30:37.681436: Schrijf normaal: 2 naar 2
+INFO:__main__:2025-07-07 13:30:37.682465: Schrijf normaal: 2 naar 3
+INFO:__main__:2025-07-07 13:30:37.684573: Schrijf normaal: 2 naar 5
+INFO:__main__:2025-07-07 13:30:37.686564: Schrijf normaal: 4 naar 6
+INFO:__main__:2025-07-07 13:30:38.189697: PLC gestart
+INFO:__main__:2025-07-07 13:35:03.316230: Schrijf repeated: 2 naar 1
+INFO:__main__:2025-07-07 13:35:03.317229: Schrijf repeated: 2 naar 2
+INFO:__main__:2025-07-07 13:35:03.317229: Schrijf repeated: 2 naar 3
+INFO:__main__:2025-07-07 13:35:03.318229: Schrijf repeated: 2 naar 5
+INFO:__main__:2025-07-07 13:35:03.318229: Schrijf repeated: 4 naar 6
+INFO:__main__:2025-07-07 13:35:03.820029: PLC gestart, volgende aanroep op 2025-07-08 13:40:00
+INFO:__main__:Initialized logger
+INFO:__main__:Started system
+INFO:__main__:2025-07-07 13:41:16.981358: Commando binnen voor id: 0 en value: 972
+INFO:__main__:2025-07-07 13:41:16.981358: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-07 13:41:16.981358: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-07 13:41:16.981358: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-07 13:41:16.981358: Commando binnen voor id: 4 en value: 2025-07-07 13:30
+INFO:__main__:2025-07-07 13:41:16.983358: Sproeitijd 1: 2025-07-08 13:30:00
+INFO:__main__:2025-07-07 13:41:16.983358: Sproeitijd 2: 2025-07-08 13:40:00
+INFO:__main__:2025-07-07 13:41:16.983358: Schrijf normaal: 2 naar 1
+INFO:__main__:2025-07-07 13:41:16.984358: Schrijf normaal: 2 naar 2
+INFO:__main__:2025-07-07 13:41:16.985360: Schrijf normaal: 2 naar 3
+INFO:__main__:2025-07-07 13:41:16.985360: Schrijf normaal: 2 naar 5
+INFO:__main__:2025-07-07 13:41:16.986358: Schrijf normaal: 4 naar 6
+INFO:__main__:2025-07-07 13:41:17.487380: PLC gestart
+INFO:__main__:2025-07-07 13:41:57.505560: Commando binnen voor id: 0 en value: 402
+INFO:__main__:2025-07-07 13:41:57.505560: Commando binnen voor id: 1 en value: 2
+INFO:__main__:2025-07-07 13:41:57.505560: Commando binnen voor id: 2 en value: 2
+INFO:__main__:2025-07-07 13:41:57.505560: Commando binnen voor id: 3 en value: 2
+INFO:__main__:2025-07-07 13:41:57.505560: Commando binnen voor id: 4 en value: 2025-07-07 13:41
+INFO:__main__:2025-07-07 13:41:57.505560: Sproeitijd 1: 2025-07-08 13:41:00
+INFO:__main__:2025-07-07 13:41:57.505560: Sproeitijd 2: 2025-07-07 13:47:00
+INFO:__main__:2025-07-07 13:41:57.505560: Schrijf normaal: 2 naar 1
+INFO:__main__:2025-07-07 13:41:57.507581: Schrijf normaal: 2 naar 2
+INFO:__main__:2025-07-07 13:41:57.507581: Schrijf normaal: 2 naar 3
+INFO:__main__:2025-07-07 13:41:57.508570: Schrijf normaal: 2 naar 5
+INFO:__main__:2025-07-07 13:41:57.509567: Schrijf normaal: 4 naar 6
+INFO:__main__:2025-07-07 13:41:58.011501: PLC gestart
+INFO:__main__:2025-07-07 13:42:03.013759: Schrijf repeated: 2 naar 1
+INFO:__main__:2025-07-07 13:42:03.013759: Schrijf repeated: 2 naar 2
+INFO:__main__:2025-07-07 13:42:03.014787: Schrijf repeated: 2 naar 3
+INFO:__main__:2025-07-07 13:42:03.014787: Schrijf repeated: 2 naar 5
+INFO:__main__:2025-07-07 13:42:03.015758: Schrijf repeated: 4 naar 6
