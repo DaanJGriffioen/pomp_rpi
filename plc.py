@@ -166,13 +166,13 @@ def send_commands(repeat):
 def check_repeat():
     global repeat_datetime_1, repeat_datetime_2, herhalen, herhaal_eens
     if herhalen or herhaal_eens:
-        if herhaal_eens: herhaal_eens = False
 
         if repeat_datetime_1 - datetime.now() < timedelta(minutes=5):
             repeat_datetime_1 += timedelta(days=1)
             return True
         elif repeat_datetime_2 - datetime.now() < timedelta(minutes=5):
             repeat_datetime_2 += timedelta(days=1)
+            if herhaal_eens: herhaal_eens = False
             return True
 
     return False
