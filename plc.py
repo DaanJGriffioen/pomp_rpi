@@ -37,7 +37,7 @@ repeat_datetime_2     = datetime.now()
 start_datetime        = datetime.now()
 
 client              = ModbusTcpClient('192.168.0.3', port=502)
-TIJDEN_URL          = "http://localhost/nwgspuit/tijden.txt"
+TIJDEN_URL          = ""
 
 herhalen            = False
 herhaal_eens        = False
